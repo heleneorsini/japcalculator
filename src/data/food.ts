@@ -43,9 +43,10 @@ export const FOOD_ITEMS: Array<FoodItem> = [
     name: "Viande",
     kcal: 130,
     imageUrl: Meat
-  }
+  },
   {
     name:"Sashimi"
     kcal: 150
-    imageUrl: Sashimi}
+    imageUrl: Sashimi
+    }
 ];
